@@ -1,0 +1,1 @@
+C:\Users\Batuhan\Desktop\Azure Mobile Services Custom API\InvokeApiAsync\CustomApiW8\CustomApiW8.Windows\obj\Debug\CustomApiW8.Windows.csprojResolveAssemblyReference.cache
